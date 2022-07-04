@@ -1,0 +1,14 @@
+[
+    {
+        "in":"index.parse.html",
+        "out":"index.html"
+    },
+    {
+        "in":"message.parse.html",
+        "out":"message.html"
+    },
+    {
+        "in":"create.parse.html",
+        "out":"create.html"
+    }
+]
